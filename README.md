@@ -1,7 +1,7 @@
 ## How to Upload a Bike Route:
 1. Create an account with Github.com. It takes just a minute to sign up. You need an account to upload a route.
 2. Once you're signed up and signed in, go to this [link](https://github.com/Open-Data-Tallahassee/bike/upload/main)
-3. Upload your route(s) with any of the following extensions: .gpx, .kml, .json, or .geojson. We *prefer* geojson, but will take whatever format you have.
+3. Upload your route(s) with any of the following extensions: .gpx, .kml, .json, or .geojson. We *prefer* geojson or json, but will take whatever format you have.
 4. Under 'Commit your changes': 
   - In the first box, briefly share what you uploaded (example: bike route for Lafayette Park to Levy Park)
   - In the second, share more details about the route, like how comfortable it is or how noisy. 
